@@ -1,7 +1,7 @@
 # Angular Progressive Web Application (PWA)
 
 
-Application example built with [Angular](https://angular.io/) 14 and adding the Progressive Web Application (PWA) using the [@angular/pwa library](https://www.npmjs.com/package/@angular/pwa).
+Application 1 example built with [Angular](https://angular.io/) 14 and adding the Progressive Web Application (PWA) using the [@angular/pwa library](https://www.npmjs.com/package/@angular/pwa).
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-aplicativo-web-progressivo-pwa-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-progressive-web-application-pwa-to-an-angular-application-4g1e) in english.
 
