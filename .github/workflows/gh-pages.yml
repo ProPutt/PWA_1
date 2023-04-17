@@ -1,8 +1,7 @@
-
 name: CI / CD for Angular
 on:
   push:
-    branches: [ "master" ] 
+    branches: [ "master" ]
 
 jobs:
   build-and-deploy:
@@ -26,6 +25,7 @@ jobs:
       - name: Tests
         run: npm run test:prod
 
+  
       - name: Build
         run: npm run build:prod
 
@@ -36,4 +36,3 @@ jobs:
           build_dir: dist/weather-app
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
