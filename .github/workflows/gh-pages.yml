@@ -2,7 +2,7 @@
 name: CI / CD for Angular
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master" ] 
 
 jobs:
   build-and-deploy:
